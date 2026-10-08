@@ -1,0 +1,1 @@
+This folder is just for the unity project/game (adding this readme for formatting reasons)
